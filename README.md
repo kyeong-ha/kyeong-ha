@@ -53,5 +53,3 @@
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white">
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
