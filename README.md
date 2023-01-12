@@ -1,7 +1,8 @@
 <div align="center">
 
   
- <h2 align="center"> 
+ <h2 align="center">
+   
  ✨ KYEONGHA ✨ 
  
  <img src="https://img.shields.io/badge/KYEONGHA-00A98F?style=social&logo=Bun&logoColor=white"/>
@@ -32,24 +33,36 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/SOLIDITY-363636?style=flat-square&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white">
 
 
 <h3 align="center">📚 Platform Skill 📚</h3>
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/Remix-377ba5?style=flat-square&logo=remix&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 
 <h3 align="center">📚 Design Skill 📚</h3>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
-<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white">
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+<br/>
+<br/>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+     
+<img src="https://github-readme-stats.vercel.app/api/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&langs_count=8"/>
+
+</div>
