@@ -61,8 +61,8 @@
 <br/>
 
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
      
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&langs_count=8"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&langs_count=8"/>
 
 </div>
