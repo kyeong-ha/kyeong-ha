@@ -1,16 +1,14 @@
 <div align="center">
-
-  
- <h2 align="center">
-   
- ✨ KYEONGHA ✨ 
- 
- <img src="https://img.shields.io/badge/KYEONGHA-00A98F?style=social&logo=Bun&logoColor=white"/>
+  </br>
+   </br>
+ <img width="30%" height="30%" src="https://img.shields.io/badge/KYEONGHA✨-00A98F?style=social&logo=angellist&logoColor=black"/>
  </br>
+  </br>
   <a href="https://wor1dbest.tistory.com"><img src="https://img.shields.io/badge/TISTORY-E5511E?style=flat&logo=Tistory&logoColor=white"/></a>
   <a href="https://github.com/kyeong-ha"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyeong-ha&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
   <a href="https://solved.ac/kyeongha"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kyeongha"/></a>
-</h2>
+  
+---
 
 <h3 align="center">📚 Programing Skill 📚</h3>
 
@@ -26,6 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white">
   </p>
+  
   
 
   <p align="center"> Used at least once </p>
