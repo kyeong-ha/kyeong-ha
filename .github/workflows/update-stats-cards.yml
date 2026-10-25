@@ -42,7 +42,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8
+          # card_width: 기본 300px에서는 긴 언어 이름(예: Visual Basic 6.0)의 비율이 잘려서 350px로 넓힘
+          options: username=kyeong-ha&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8&card_width=350
           path: profile/top-langs.svg
           # 비어 있으면 Action이 기본 GITHUB_TOKEN(공개 레포만)으로 대신 조회한다
           token: ${{ secrets.STATS_TOKEN }}
